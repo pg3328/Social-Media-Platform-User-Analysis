@@ -22,7 +22,8 @@ Welcome to the Social Media User Analysis project! This repository contains Tabl
 
 ## Visualizatoins
 
-![image](https://github.com/pg3328/Social-Media-Platform-User-Analysis/assets/98541833/3fb44530-48c8-4a03-80aa-3059fef51e71)
+![image](https://github.com/pg3328/Social-Media-Platform-User-Analysis/assets/98541833/a62f252a-1383-41fb-a2e4-47a6281c6224)
+
 
 
 
