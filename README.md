@@ -15,7 +15,7 @@ Welcome to the Social Media User Analysis project! This repository contains Tabl
 ## Usage
 
 - Open Tableau Desktop or Tableau Public.
-- Navigate to the cloned repository and locate the Tableau workbook file (e.g., social_media_user_analysis.twb).
+- Navigate to the cloned repository and locate the Tableau workbook file (e.g., socialMediaPlatformAnalysis.twb).
 - Open the workbook to access the pre-built dashboards and visualizations.
 - Interact with the visualizations to explore social media user data trends, engagement metrics, and more.
 - Feel free to create your own visualizations to experiment and enhance your Tableau skills.
