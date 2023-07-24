@@ -6,7 +6,7 @@ Welcome to the Social Media User Analysis project! This repository contains Tabl
 
 - [Features](#features)
 - [Usage](#usage)
-- [Data Visualization](#visualizatoins)
+- [Data Visualization](#visualizations)
 
 ## Features
 - Interactive Visualizations: Explore a range of dynamic and insightful Tableau visualizations that provide an in-depth analysis of social media user behavior and engagement.
@@ -20,7 +20,7 @@ Welcome to the Social Media User Analysis project! This repository contains Tabl
 - Interact with the visualizations to explore social media user data trends, engagement metrics, and more.
 - Feel free to create your own visualizations to experiment and enhance your Tableau skills.
 
-## Visualizatoins
+## Data Visualizations
 
 ![image](https://github.com/pg3328/Social-Media-Platform-User-Analysis/assets/98541833/a62f252a-1383-41fb-a2e4-47a6281c6224)
 
